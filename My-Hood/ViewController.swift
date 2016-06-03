@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  my-hood-devslopes
+//  my-hood
 //
-//  Created by Mark Price on 8/18/15.
-//  Copyright © 2015 devslopes. All rights reserved.
+//  Created by Asherlee Levy on 5/30/16.
+//  Copyright © 2016 Asherlee Levy. All rights reserved.
 //
 
 import UIKit
